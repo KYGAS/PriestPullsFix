@@ -1,0 +1,7 @@
+{
+    "name": "Priest Pulls Bugfix",
+    "description": "Module intending to fix existing issues with priest pulls ( Divine Intervention ); Pulls on stairs, uneven ground, ...",
+    "author": "KYGAS",
+    "servers": ["https://raw.githubusercontent.com/kygas/PriestPullsFix/master/"],
+    "disableAutoUpdate": false
+}
